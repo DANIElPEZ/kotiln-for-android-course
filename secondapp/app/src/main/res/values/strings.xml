@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">segunda</string>
+    <string name="login_title_button">Login In</string>
+    <string name="user_name">UserName</string>
+    <string name="pass_word">PassWord</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
